@@ -20,7 +20,7 @@
      "window.zoomLevel": -1,
      "files.autoSave": "off",
      "files.encoding": "utf8",
-     "files.maxMemoryForLargeFilesMB": 40960,
+     "files.maxMemoryForLargeFilesMB": 1024000,
      "files.associations": {
           ".blade.php": "html", 
           ".tpl": "html", 
