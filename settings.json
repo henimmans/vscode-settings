@@ -1,0 +1,37 @@
+{
+     "editor.wordWrap": "on",
+     "editor.multiCursorModifier": "ctrlCmd",
+     "editor.insertSpaces": true,
+     "editor.detectIndentation": false,
+     "editor.renderWhitespace": "none",
+     "editor.fontFamily": "'Source Code Pro','Consolas', 'Noto Mono','Inconsolata', 'Roboto Mono'",
+     "editor.tabSize": 5,
+     "editor.fontSize": 15.7,
+     "editor.tokenColorCustomizations": {
+          "textMateRules": [{
+               "scope": "comment",
+               "settings": {
+                    "fontStyle": "italic"
+               }
+          }]
+     },
+     "explorer.openEditors.visible": 0,
+     "explorer.confirmDelete": false,
+     "window.zoomLevel": -1,
+     "files.autoSave": "off",
+     "files.encoding": "utf8",
+     "files.maxMemoryForLargeFilesMB": 40960,
+     "files.associations": {
+          ".blade.php": "html", 
+          ".tpl": "html", 
+          ".vue": "html", 
+          ".scss": "css"
+     },
+     "terminal.integrated.rendererType": "dom",
+     "terminal.integrated.fontFamily": "'Source Code Pro','Inconsolata', 'Roboto Mono'",
+     "terminal.integrated.fontSize": 15,
+     "terminal.integrated.fontWeight": "normal",
+     "breadcrumbs.enabled": false,
+     "blade.format.enable": true,
+     "workbench.colorTheme": "Slime",
+}
