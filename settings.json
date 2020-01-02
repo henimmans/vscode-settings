@@ -6,7 +6,7 @@
      "editor.renderWhitespace": "none",
      "editor.fontFamily": "'Source Code Pro','Consolas', 'Noto Mono','Inconsolata', 'Roboto Mono'",
      "editor.tabSize": 5,
-     "editor.fontSize": 15.7,
+     "editor.fontSize": 13,
      "editor.tokenColorCustomizations": {
           "textMateRules": [{
                "scope": "comment",
@@ -29,7 +29,7 @@
      },
      "terminal.integrated.rendererType": "dom",
      "terminal.integrated.fontFamily": "'Source Code Pro','Inconsolata', 'Roboto Mono'",
-     "terminal.integrated.fontSize": 15,
+     "terminal.integrated.fontSize": 13,
      "terminal.integrated.fontWeight": "normal",
      "breadcrumbs.enabled": false,
      "blade.format.enable": true,
